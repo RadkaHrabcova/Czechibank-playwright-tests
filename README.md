@@ -1,0 +1,1 @@
+# Czechibank playwright tests
